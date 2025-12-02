@@ -1,5 +1,7 @@
 # Batalha Naval - PIF
 
+Grupo: Arthur Leite, Eduardo Rodrigues e Roberto Xavier
+
 ## Descrição
 
 Este é um jogo de Batalha Naval em C, desenvolvido como projeto para a disciplina de PIF.
